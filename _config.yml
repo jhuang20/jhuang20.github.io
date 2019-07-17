@@ -6,9 +6,9 @@ baseurl:           ""
 url:               "http://jhuang20.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  stuycommutes
+github_username:   jhuang20
+facebook_username: stuycommutes
 
 # Build settings
 markdown:          kramdown
